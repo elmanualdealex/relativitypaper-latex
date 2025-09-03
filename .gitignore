@@ -1,0 +1,12 @@
+# Archivos de compilación LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+texput.log
+*.pdf
+*.tex~
